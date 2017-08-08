@@ -1,0 +1,9 @@
+
+.copyright { color: #2973ad; font-style: italic; font-weight: normal; font-size: 9px; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular }
+.inov { color: #2973ad; font-style: italic; font-weight: normal; font-size: 12px; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular }
+.text   { color: black; font-style: normal; font-weight: normal; font-size: 11px; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular }
+.listTitle  { color: #2973ad; font-style: italic; font-weight: bold; font-size: 14px; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular }
+.titles   { color: #2973ad; font-style: italic; font-weight: bold; font-size: 16px; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular }
+.links    { color: #2973ad; font-style: normal; font-weight: normal; font-size: 11px; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular; text-decoration: none }
+.textBold   { color: black; font-style: normal; font-weight: bold; font-size: 11px; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular }
+.activeSection  { color: #2184c6; font-style: normal; font-weight: bold; font-size: 12px; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular }
