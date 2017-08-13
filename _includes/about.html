@@ -16,9 +16,11 @@
                   {% else %}
                     <li>
                   {% endif %}
-                        <div class="timeline-image">
-                            <img class="img-circle img-responsive" src="/assets/img/about/{{ element.image }}" alt="{{ element.img-alt }}">
-                        </div>
+                        {% if element.image != "" %}
+                            <div class="timeline-image">
+                                <img class="img-circle img-responsive" src="/assets/img/about/{{ element.image }}" alt="{{ element.img-alt }}">
+                            </div>
+                        {% endif %}
                         <div class="timeline-panel">
                             <div class="timeline-heading">
                                 <h4>{{ element.year }}</h4>

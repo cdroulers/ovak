@@ -2,7 +2,7 @@
 layout: default
 ---
 {% include hero.html %}
-{% include services.html %}
+{% include features.html %}
 {% include portfolio.html %}
 {% include about.html %}
 {% include team.html %}

@@ -1,0 +1,11 @@
+- name: "Secure"
+  icon: "life-ring"
+  description: "Keeps your passenger secure on the vehicle while riding."
+
+- name: "Comfortable"
+  icon: "heart"
+  description: "Seats comfortably for children."
+
+- name: "Simple"
+  icon: "thumbs-o-up"
+  description: "Easy to install."
