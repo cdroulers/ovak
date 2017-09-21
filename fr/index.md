@@ -1,11 +1,14 @@
 ---
 layout: default
 ---
-{% include hero.html %}
-{% include features.html %}
-{% include portfolio.html %}
-{% include about.html %}
-{% include team.html %}
-{% include clients.html %}
-{% include contact.html %}
-{% include portfolio-modals.html %}
+{% include fr/nav.html %}
+
+{% include fr/hero.html %}
+{% include fr/features.html %}
+{% include fr/portfolio.html %}
+{% include fr/about.html %}
+{% include fr/team.html %}
+{% include fr/contact.html %}
+{% include fr/portfolio-modals.html %}
+
+{% include fr/footer.html %}

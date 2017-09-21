@@ -1,0 +1,41 @@
+- name: "1e génération"
+  image: "generation-1.gif"
+  img-alt: "Première génération du siège"
+  year: "Mai 1997"
+  text: "Fiberglass seat strangely resembling a garden chair. Summary retention and ejection mechanism."
+  side: left
+
+- name: "2nd generation"
+  image: "generation-2.gif"
+  img-alt: "Second generation of the seat"
+  year: "June 1997"
+  text: "Similar to previous iteration, but with footrests and headrest."
+  side: right
+
+- name: "3rd generation"
+  image: ""
+  img-alt: "Third generation of the seat"
+  year: "August 1997"
+  text: "Molded seat, bigger and better looking. Same retention and ejection system as previous iterations."
+  side: left
+
+- name: "4th generation"
+  image: ""
+  img-alt: "Fourth generation of the seat"
+  year: "May 1998"
+  text: "Enhanced retention and ejection system. Removable backpack addition."
+  side: right
+
+- name: "5th generation"
+  image: ""
+  img-alt: "Fifth generation of the seat"
+  year: "June 1999"
+  text: "Ejectable seat introduced. Three point seatbelt. Both shells made from fiberglass. Retention and ejection system conceived, calibrated and tested by engineering."
+  side: left
+
+- name: "6th generation"
+  image: ""
+  img-alt: "Sixth generation of the seat"
+  year: "May 2000"
+  text: "Production generation. Light and inexpensive. Exterior shell now made from Twinsheet."
+  side: right

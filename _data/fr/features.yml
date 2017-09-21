@@ -1,0 +1,11 @@
+- name: "Sécuritaire"
+  icon: "life-ring"
+  description: "Sécurise votre passager en place sur le véhicule."
+
+- name: "Comfortable"
+  icon: "heart"
+  description: "L'enfant est assis confortablement sans besoin de se tenir."
+
+- name: "Simple"
+  icon: "thumbs-o-up"
+  description: "Facile à installer."
