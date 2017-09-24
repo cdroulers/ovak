@@ -1,0 +1,8 @@
+{
+    "editor.rulers": [
+        100,
+        120
+    ],
+    "html.format.wrapLineLength": 100,
+    "html.format.endWithNewline": true
+}

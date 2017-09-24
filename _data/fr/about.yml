@@ -2,40 +2,57 @@
   image: "generation-1.gif"
   img-alt: "Première génération du siège"
   year: "Mai 1997"
-  text: "Fiberglass seat strangely resembling a garden chair. Summary retention and ejection mechanism."
+  text: >
+    Siège de fibre de verre ressemblant étrangement à une chaise de jardin pour enfant avec pattes tronçonnées. (Mille excuses Marie-Michèle)
+    Système de rétention/éjection sommaire.
   side: left
 
-- name: "2nd generation"
+- name: "2e génération"
   image: "generation-2.gif"
-  img-alt: "Second generation of the seat"
-  year: "June 1997"
-  text: "Similar to previous iteration, but with footrests and headrest."
+  img-alt: "Deuxième génération du siège"
+  year: "Juin 1997"
+  text: >
+    Siège de fibre de verre avec repose pieds et appui-tête utilisant le système de rétention/éjection précédent.
   side: right
 
-- name: "3rd generation"
+- name: "3e génération"
   image: ""
-  img-alt: "Third generation of the seat"
-  year: "August 1997"
-  text: "Molded seat, bigger and better looking. Same retention and ejection system as previous iterations."
+  img-alt: "Troisième génération du siège"
+  year: "Août 1997"
+  text: >
+    Siège de fibre de verre issu d’un moule (+grand et + esthétique). Même système de rétention/éjection que proto 1 et 2.
   side: left
 
-- name: "4th generation"
+- name: "4e génération"
   image: ""
-  img-alt: "Fourth generation of the seat"
-  year: "May 1998"
-  text: "Enhanced retention and ejection system. Removable backpack addition."
+  img-alt: "Quatrième génération du siège"
+  year: "Mai 1998"
+  text: >
+    Fruit d’une cogitation hivernale entre le designer Gilles Laflamme et le concepteur Michel Martin.
+    Système de rétention/éjection amélioré.
+    Ajout d’un sac-à-dos amovible.
   side: right
 
-- name: "5th generation"
+- name: "5e génération"
   image: ""
-  img-alt: "Fifth generation of the seat"
-  year: "June 1999"
-  text: "Ejectable seat introduced. Three point seatbelt. Both shells made from fiberglass. Retention and ejection system conceived, calibrated and tested by engineering."
+  img-alt: "Cinquième génération du siège"
+  year: "Juin 1999"
+  text: >
+    Introduction du concept « siège dans le siège »
+    Harnachement du passager à la coquille éjectable en trois points. Coquille extérieure en fibre de verre.
+    Coquille intérieure en fibre de verre.
+    Coussin ergonomique
+    Système de rétention/éjection conçu, calibré et testé en ingénierie. Lors d’un impact imposant + ou – 1.5G au passager, la coquille intérieure se dégage de la coquille extérieur et devient un élément de protection supplémentaire pour ce dernier.
   side: left
 
-- name: "6th generation"
+- name: "6e génération"
   image: ""
-  img-alt: "Sixth generation of the seat"
-  year: "May 2000"
-  text: "Production generation. Light and inexpensive. Exterior shell now made from Twinsheet."
+  img-alt: "Sixième génération du siège"
+  year: "Mai 2000"
+  text: >
+    Siège OVAK léger et économique (Mai 2000)
+    Coquille extérieure en polyéthylène (Twinsheet) thermoformé = 4 kilos versus 9 kilos en fibre de verre.
+    Portion ventrale du harnais allégée.
+    Création d’une housse de protection pour le siège.
+    Création d’une housse 4 saisons pour le passager.
   side: right
