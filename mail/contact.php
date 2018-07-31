@@ -6,10 +6,10 @@
         {
             $success = true;
         }
-        else if (!empty($_POST{"name"}) && !empty($_POST{"subject"}) && !empty($_POST{"spam"}) && !empty($_POST{"emailaddress"}))
+        else if (!empty($_POST{"name"}) && !empty($_POST{"spam"}) && !empty($_POST{"emailaddress"}))
         {
             $host = getenv('HTTP_HOST');
-            $to = $_POST{"to"};
+            $to = "info@ovak.ca";
             $name = $_POST{"name"};
             $subject = "Contact form on Ovak (via $host contact page.)";
             $comment = $_POST{"spam"} . "\n with phone " . $_POST{"phone"};
