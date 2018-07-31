@@ -1,5 +1,6 @@
 ---
 layout: default
+lang: fr
 ---
 {% include fr/nav.html %}
 
